@@ -1,7 +1,8 @@
 # Hi there, I'm pahadiprogrammer 👋
 
 👨‍💻 **Software Engineer**  
-Passionate about building modern, scalable, and robust solutions.
+Passionate about building modern, scalable, and robust solutions.  
+💼 **Open to freelancing opportunities!**
 
 ---
 
@@ -36,7 +37,8 @@ Passionate about building modern, scalable, and robust solutions.
 
 ## 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yksr/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yksr/)  
+✉️ Email: pahadiporgrammer@gamil.com
 
 ---
 
@@ -47,4 +49,4 @@ Passionate about building modern, scalable, and robust solutions.
 
 ---
 
-⭐️ _Thanks for visiting my profile!_  
+⭐️ _Thanks for visiting my profile!_
