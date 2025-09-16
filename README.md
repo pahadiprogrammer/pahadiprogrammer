@@ -1,4 +1,4 @@
-# Hi there, I'm pahadiprogrammer 👋
+# Hi there, I'm pahadiprogrammer(yugander) 👋
 
 👨‍💻 **Software Engineer**  
 Passionate about building modern, scalable, and robust solutions.  
